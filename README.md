@@ -4,3 +4,5 @@ Zmiana na branchu develop
 
 Zmiana na branchu feature1
 
+Zmiana na branchu feature2
+
