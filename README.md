@@ -7,3 +7,6 @@ Zmiana na branchu feature1
 Zmiana na branchu feature2
 
 add more to feature2
+
+add more more to feature2
+
